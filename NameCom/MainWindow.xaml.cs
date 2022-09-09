@@ -24,5 +24,10 @@ namespace NameCom
         {
             InitializeComponent();
         }
+
+        private void Bnt_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

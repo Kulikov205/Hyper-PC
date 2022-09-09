@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom_MarkupCompile.cache
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom_MarkupCompile.lref
+C:\Users\Администратор\source\repos\NameCom\NameCom\bin\Debug\NameCom.exe.config
+C:\Users\Администратор\source\repos\NameCom\NameCom\bin\Debug\NameCom.exe
+C:\Users\Администратор\source\repos\NameCom\NameCom\bin\Debug\NameCom.pdb
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.g.resources
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.Properties.Resources.resources
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.exe
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.pdb
