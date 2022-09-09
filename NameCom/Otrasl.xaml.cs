@@ -16,19 +16,13 @@ using System.Windows.Shapes;
 namespace NameCom
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Otrasl.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Otrasl : Page
     {
-        public MainWindow()
+        public Otrasl()
         {
             InitializeComponent();
-        }
-
-        private void Bnt_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Otrasl());
-            //Manager.MainFrame = MainFrame;
         }
     }
 }

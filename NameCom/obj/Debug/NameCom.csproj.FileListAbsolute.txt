@@ -13,3 +13,5 @@ C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameC
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.exe
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\NameCom.pdb
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\Otrasl.g.cs
+C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\Otrasl.baml
