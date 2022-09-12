@@ -9,6 +9,15 @@
       Title="Otrasl">
 
     <Grid>
-        <TextBlock>Информация о компании</TextBlock>
+        <StackPanel Margin="10">
+            <TextBlock>Игровые компьютеры</TextBlock>
+            <TextBlock>Сборка ПК(Материнская плата,Видеокарта,Процессор,Система охлаждения,Оперативная память,Блок питания)</TextBlock>
+            <TextBlock>План цеха</TextBlock>
+            <Image  Source="slide-9.jpg" Stretch="None"/>
+        </StackPanel>
+        
     </Grid>
+   
+
+
 </Page>

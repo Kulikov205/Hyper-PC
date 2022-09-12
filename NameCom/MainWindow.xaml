@@ -7,26 +7,32 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="173*"/>
+            <RowDefinition Height="246*"/>
+        </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="150"> </ColumnDefinition>
+            <ColumnDefinition Width="150"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
-        <Grid Grid.Column="1">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="110"></ColumnDefinition>
-                <ColumnDefinition Width="*"></ColumnDefinition>
-            </Grid.ColumnDefinitions>
-            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Что"></Label>
-            <Grid Background="Green" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
-            
-            
-            <Frame Grid.Row="1" x:Name="MainFrame"> </Frame>
+
+        <Grid Grid.Column="1" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="PC"></Label>
+            <Grid Background="Red" Height="15" VerticalAlignment="Bottom" Margin="10" ></Grid>
+            <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
         </Grid>
-        
-        <Grid Grid.Column="0" Background="Aqua"></Grid>
-        <TextBlock> Name company </TextBlock>
-        <Button Click="Bnt_Click" Height="25" Background="White"> Надо тыкнуть? </Button>
+
+        <Grid Grid.Column="0" Background="Black" Grid.RowSpan="2" Margin="0,-1,0,1"></Grid>
+        <Image Grid.Column="0" Source="Лого.jpg" VerticalAlignment="Top"/>
+        <Button Click="Bnt_Click" Height="25" Background="White" Margin="0,24,0,197" Grid.Row="1">Инфо</Button>
+        <Button Click="Button_Click" Height="25" Background="White" Margin="0,50,0,171" Grid.Row="1">Продукция</Button>
+
+
 
     </Grid>
 </Window>
