@@ -31,10 +31,6 @@ namespace NameCom
             //Manager.MainFrame = MainFrame;
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Otrasl());
-            //Manager.MainFrame = MainFrame;
-        }
+       
     }
 }
