@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,27 +14,23 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace NameCom
+namespace HyperPC
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Robo.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Robo : Page
     {
-        public MainWindow()
+        public Robo()
         {
             InitializeComponent();
         }
 
-        private void Bnt_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Otrasl());
-            //Manager.MainFrame = MainFrame;
-        }
+        
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            MainFrame.Navigate(new HyperPC.Robo());
+            Process.Start("https://kulikov205.github.io/TestCar/");
         }
     }
 }
