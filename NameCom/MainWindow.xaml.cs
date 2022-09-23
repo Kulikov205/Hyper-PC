@@ -35,5 +35,7 @@ namespace NameCom
         {
             MainFrame.Navigate(new HyperPC.Robo());
         }
+
+       
     }
 }

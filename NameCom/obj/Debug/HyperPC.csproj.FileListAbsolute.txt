@@ -17,3 +17,21 @@ C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\Hyper
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\Robo.g.cs
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\Robo.baml
 C:\Users\Администратор\source\repos\NameCom\NameCom\obj\Debug\HyperPC.csproj.AssemblyReference.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\bin\Debug\HyperPC.exe.config
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\bin\Debug\HyperPC.exe
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\bin\Debug\HyperPC.pdb
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\MainWindow.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\Otrasl.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\Robo.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\App.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC_MarkupCompile.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC_MarkupCompile.lref
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\MainWindow.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\Otrasl.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\Robo.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.g.resources
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.Properties.Resources.resources
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.csproj.GenerateResource.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.csproj.CoreCompileInputs.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.exe
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.pdb

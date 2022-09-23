@@ -149,6 +149,7 @@
                 </Paragraph>
             </FlowDocument>
         </FlowDocumentReader>
-        <Button Click="Button_Click_1" Height="25" VerticalAlignment="Bottom" Background="White" Margin="25" Grid.Row="1">Ссылка</Button>
+        <Button Click="Button_Click_1" Height="25" VerticalAlignment="Bottom" Background="White" Margin="517,0,66,25">Ссылка</Button>
+        <Button Click="Button_Click" Height="25" VerticalAlignment="Bottom" Background="White" Margin="80,0,335,25">Очки</Button>
     </Grid>
 </Page>
