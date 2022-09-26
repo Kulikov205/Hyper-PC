@@ -30,12 +30,13 @@ namespace HyperPC
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Process.Start("https://kulikov205.github.io/TestCar/");
+            Process.Start("https://kulikov205.github.io/Glas/");
+            Process.Start("https://github.com/Kulikov205/Glas");
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("https://kulikov205.github.io/Glas/");
+            Process.Start("https://github.com/Kulikov205/Glas");
         }
     }
 }
