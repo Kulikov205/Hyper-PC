@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,21 +16,13 @@ using System.Windows.Shapes;
 namespace HyperPC
 {
     /// <summary>
-    /// Логика взаимодействия для Robo.xaml
+    /// Логика взаимодействия для ints.xaml
     /// </summary>
-    public partial class Robo : Page
+    public partial class ints : Page
     {
-        public Robo()
+        public ints()
         {
             InitializeComponent();
-        }
-
-        
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Process.Start("https://kulikov205.github.io/Glas/");
-            Process.Start("https://github.com/Kulikov205/Glas");
         }
     }
 }

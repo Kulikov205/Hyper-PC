@@ -36,6 +36,9 @@ namespace NameCom
             MainFrame.Navigate(new HyperPC.Robo());
         }
 
-       
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new HyperPC.ints());
+        }
     }
 }

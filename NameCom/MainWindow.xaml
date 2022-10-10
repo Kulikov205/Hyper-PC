@@ -29,9 +29,9 @@
 
         <Grid Grid.Column="0" Background="Black" Grid.RowSpan="2" Margin="0,-1,0,1"></Grid>
         <Image Grid.Column="0" Source="Лого.jpg" VerticalAlignment="Top"/>
-        <Button Click="Bnt_Click" Height="25" Margin="0,24,0,197" Grid.Row="1">Инфо</Button>
+        <Button Click="Bnt_Click" Height="25" Margin="34,20,36,201" Grid.Row="1">Инфо</Button>
         <Button Click="Button_Click" Height="25" Margin="-1,50,1,171" Grid.Row="1">СИЗ</Button>
-        
+        <Button Click="Button_Click_1" Height="25" Margin="34,80,36,141" Grid.Row="1">Инструменты</Button>
 
 
     </Grid>

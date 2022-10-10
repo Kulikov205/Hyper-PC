@@ -37,3 +37,5 @@ C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCo
 C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.pdb
 C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\HyperPC.csproj.AssemblyReference.cache
 C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\App.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\ints.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Новая папка\Git\NameCom\obj\Debug\ints.baml
