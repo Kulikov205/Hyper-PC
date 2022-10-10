@@ -32,7 +32,7 @@
         <Button Click="Bnt_Click" Height="25" Margin="34,20,36,201" Grid.Row="1">Инфо</Button>
         <Button Click="Button_Click" Height="25" Margin="-1,50,1,171" Grid.Row="1">СИЗ</Button>
         <Button Click="Button_Click_1" Height="25" Margin="34,80,36,141" Grid.Row="1">Инструменты</Button>
-
+        <TextBlock>HYPERPC</TextBlock>
 
     </Grid>
 </Window>
