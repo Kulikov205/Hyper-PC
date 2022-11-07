@@ -5,9 +5,7 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <LinearGradientBrush x:Key="GrayBlueGradientBrush" StartPoint="0,0" EndPoint="1,1">
-            <GradientStop Color="DarkRed" Offset="0" />
-            <GradientStop Color="AliceBlue" Offset="0.5" />
-            <GradientStop Color="LightPink" Offset="1" />
+            <GradientStop Color="Green" Offset="0" /> 
         </LinearGradientBrush>
         <Style TargetType="{x:Type Button}">
             <Setter Property="Background" Value="{StaticResource GrayBlueGradientBrush}" />

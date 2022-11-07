@@ -9,6 +9,14 @@
       Title="ints">
 
     <Grid>
-        <TextBlock>Строительный фен, RGB-провода</TextBlock>
+        <StackPanel>
+            <TextBlock>Строительный фен, RGB-провода</TextBlock>
+            <TextBlock>Отвёртки, стяжки, термопаста, фильтры, антистатические перчатки, дополнительный набор винтов</TextBlock>
+        </StackPanel>
+        <Button Click="screwdriver" Height="25" VerticalAlignment="Bottom">screwdriver</Button>
+        <Button Click="Button_Click" Height="25" VerticalAlignment="Bottom" HorizontalAlignment="Left" >Оценка flow</Button>
     </Grid>
+
+
+
 </Page>

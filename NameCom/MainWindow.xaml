@@ -24,7 +24,7 @@
 
             <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="HyperPC"></Label>
             <Grid Background="Red" Height="15" VerticalAlignment="Bottom" Margin="10" ></Grid>
-            <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
+            <Frame Grid.Row="1" x:Name="MainFrame" Content="Не знаешь о сборке ПК? А хочется поиграть в топовые игры? ТОГДА ТЕБЕ К НАМ! "></Frame>
         </Grid>
 
         <Grid Grid.Column="0" Background="Black" Grid.RowSpan="2" Margin="0,-1,0,1"></Grid>

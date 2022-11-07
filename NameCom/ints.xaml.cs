@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,17 @@ namespace HyperPC
         public ints()
         {
             InitializeComponent();
+        }
+
+        private void screwdriver(object sender, RoutedEventArgs e)
+        {
+            Process.Start("https://kulikov205.github.io/screwdriver/");
+           
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Process.Start("https://drive.google.com/drive/u/3/folders/1o_unWil5tWqw1Qv2A2IAdtNCltDVLwt_");
         }
     }
 }
