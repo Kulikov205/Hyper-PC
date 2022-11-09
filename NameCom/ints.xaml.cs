@@ -34,7 +34,7 @@ namespace HyperPC
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("https://drive.google.com/drive/u/3/folders/1o_unWil5tWqw1Qv2A2IAdtNCltDVLwt_");
+            Process.Start("https://drive.google.com/drive/folders/1r_7tyiEhonVC7SlMTT9dR8eqrO_wpfv9?usp=sharing_");
         }
     }
 }
